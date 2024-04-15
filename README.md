@@ -10,6 +10,7 @@
 - **Facebook:** [Khalid Camzy](https://www.facebook.com/KhalidCamzy)
 - **Instagram:** [Khalid Camzy](https://www.instagram.com/KhalidCamzy)
 - **Twitter:** [Khalid Camzy](https://twitter.com/KhalidCamzy)
+- - **TikTok:** [Khalid Camzy](https://tiktok.com/@khalidtech09)
 
 #### 💻 GitHub Repositories:
 Explore my repositories to find a mix of innovative coding projects and ethical hacking scripts. Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
