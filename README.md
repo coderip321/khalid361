@@ -24,8 +24,7 @@ I'm Khalid Camzy, CEO of **CodeRipper**, a passionate student currently learning
 - 🎮 Gaming is my guilty pleasure!
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- Twitter: [Your Twitter Profile](https://twitter.com/)
-- GitHub: [Your GitHub Profile](https://github.com/)
+- Twitter: [My Twitter Profile](https://twitter.com/KhalidCamzy)
+- GitHub: [My GitHub Profile](https://khalid361)
 
 Let's connect and make the tech world more secure together. 🚀
