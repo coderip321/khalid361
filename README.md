@@ -1,20 +1,31 @@
-#Khalid c
-👋 Hello, World! I'm Khalid C, a passionate coder and ethical hacker on a journey to explore the vast realms of technology. My mission is to create coding files that not only bring ideas to life but also foster a secure digital environment through ethical hacking scripts.
+# 👋 Hello, I'm Khalid Camzy!
 
-#### 🚀 Expertise:
-- **Coding Maven:** Proficient in various programming languages, I love turning ideas into functional code that solves real-world problems.
-- **Ethical Hacking Enthusiast:** Committed to the ethical side of hacking, I constantly strive to enhance cybersecurity and protect digital landscapes.
+## About Me
+I'm Khalid Camzy, CEO of **CodeRipper**, a passionate student currently learning cybersecurity and focusing on mastering C and other programming languages.
 
-#### 🌐 Connect with me:
-- **Email:** khalidcamzy5@gmail.com
-- **Facebook:** [Khalid Camzy](https://www.facebook.com/KhalidCamzy)
-- **Instagram:** [Khalid Camzy](https://www.instagram.com/KhalidCamzy)
-- **Twitter:** [Khalid Camzy](https://twitter.com/KhalidCamzy)
-- **TikTok:** [Khalid Camzy](https://tiktok.com/@khalidtech09)
+- 🔭 I’m currently working on enhancing my skills in cybersecurity and mastering C programming.
+- 🌱 I’m currently learning more about ethical hacking and secure coding practices.
+- 👯 I’m looking to collaborate on open-source projects related to cybersecurity and C programming.
+- 💬 Ask me about cybersecurity, C programming, or anything tech-related!
+- 😄 Pronouns: He/Him
 
-#### 💻 GitHub Repositories:
-Explore my repositories to find a mix of innovative coding projects and ethical hacking scripts. Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
+## Projects
+- **CodeRipper** - Founder and CEO, leading a team dedicated to pushing the boundaries of coding and cybersecurity.
+- **SecureC** - A project aimed at developing secure coding practices in C programming.
 
-Let's code, hack, and make the digital world a better place together! 🌐✨
+## Skills
+- **Programming Languages:** C, Python, JavaScript
+- **Cybersecurity:** Ethical Hacking, Network Security, Secure Coding
+- **Tools & Technologies:** Git, Linux, Wireshark, Metasploit
 
-@Khalid camzy
+## Fun Facts
+- 🎵 I love playing the guitar and composing music in my free time.
+- 📚 I enjoy reading books on cybersecurity and technology.
+- 🎮 Gaming is my guilty pleasure!
+
+## Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- Twitter: [Your Twitter Profile](https://twitter.com/)
+- GitHub: [Your GitHub Profile](https://github.com/)
+
+Let's connect and make the tech world more secure together. 🚀
